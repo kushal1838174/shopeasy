@@ -4,3 +4,4 @@
 =======
 "Version: A" 
 >>>>>>> feature-a
+"## About\nA tiny shop app." 
